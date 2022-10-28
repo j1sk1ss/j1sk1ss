@@ -11,6 +11,7 @@ ENG:
     
     .MPRJ -> project I am currently working on
   
+  My Leetcode: https://leetcode.com/j1sk1ss/
   
   Contact with me in VK: https://vk.com/j1sk1
   
@@ -32,7 +33,8 @@ ENG:
      
      .MPRJ -> проект, над которым я сейчас работаю
      
-     
+  Мой Leetcode: https://leetcode.com/j1sk1ss/
+  
   Связь со мной в ВК: https://vk.com/j1sk1
   
                   ЮТ: https://www.youtube.com/channel/UC04uAekv12ndmokK54el-_w
