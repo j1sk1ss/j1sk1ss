@@ -10,11 +10,9 @@ ENG:
     .LABS -> special repositories for my styding in University
     
     .MPRJ -> project I am currently working on
-  
-  My Leetcode: https://leetcode.com/j1sk1ss/
-  
-  Contact with me in VK: https://vk.com/j1sk1
-  
+  \n
+  My Leetcode: https://leetcode.com/j1sk1ss/ \n
+  Contact with me in VK: https://vk.com/j1sk1 \n 
                      YT: https://www.youtube.com/channel/UC04uAekv12ndmokK54el-_w \n
                      GameJolt: https://gamejolt.com/@j1sk1ss_onetap \n
                      Itch.IO: https://j1sk1ss.itch.io/ \n
@@ -31,15 +29,11 @@ ENG:
      
      .MPRJ -> проект, над которым я сейчас работаю
      
-  Мой Leetcode: https://leetcode.com/j1sk1ss/
-  
-  Связь со мной в ВК: https://vk.com/j1sk1
-  
-                  ЮТ: https://www.youtube.com/channel/UC04uAekv12ndmokK54el-_w
-                  
-                  GameJolt: https://gamejolt.com/@j1sk1ss_onetap
-                  
-                  Itch.IO: https://j1sk1ss.itch.io/
+  Мой Leetcode: https://leetcode.com/j1sk1ss/ \n
+  Связь со мной в ВК: https://vk.com/j1sk1 \n
+                  ЮТ: https://www.youtube.com/channel/UC04uAekv12ndmokK54el-_w \n
+                  GameJolt: https://gamejolt.com/@j1sk1ss_onetap \n
+                  Itch.IO: https://j1sk1ss.itch.io/ \n
 <!--
 https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif
 **j1sk1ss/j1sk1ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
