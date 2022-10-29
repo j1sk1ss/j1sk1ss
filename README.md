@@ -11,7 +11,7 @@ ENG:
     
     .MPRJ -> project I am currently working on
 
-  My Leetcode: https://leetcode.com/j1sk1ss/ \n
+  My Leetcode: https://leetcode.com/j1sk1ss/ 
   Contact with me in VK: https://vk.com/j1sk1 \n 
                      YT: https://www.youtube.com/channel/UC04uAekv12ndmokK54el-_w \n
                      GameJolt: https://gamejolt.com/@j1sk1ss_onetap \n
