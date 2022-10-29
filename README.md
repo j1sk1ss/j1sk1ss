@@ -10,7 +10,7 @@ ENG:
     .LABS -> special repositories for my styding in University
     
     .MPRJ -> project I am currently working on
-  \n
+
   My Leetcode: https://leetcode.com/j1sk1ss/ \n
   Contact with me in VK: https://vk.com/j1sk1 \n 
                      YT: https://www.youtube.com/channel/UC04uAekv12ndmokK54el-_w \n
