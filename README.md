@@ -15,11 +15,9 @@ ENG:
   
   Contact with me in VK: https://vk.com/j1sk1
   
-                     YT: https://www.youtube.com/channel/UC04uAekv12ndmokK54el-_w
-                     
-                     GameJolt: https://gamejolt.com/@j1sk1ss_onetap
-                     
-                     Itch.IO: https://j1sk1ss.itch.io/
+                     YT: https://www.youtube.com/channel/UC04uAekv12ndmokK54el-_w \n
+                     GameJolt: https://gamejolt.com/@j1sk1ss_onetap \n
+                     Itch.IO: https://j1sk1ss.itch.io/ \n
 
 РУС:
   Я студент из России, и здесь я размещаю свои примеры кода и приложений.
