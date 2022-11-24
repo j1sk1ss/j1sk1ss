@@ -15,9 +15,7 @@ ENG:
   My Leetcode: https://leetcode.com/j1sk1ss/ 
   
   Contact with me in VK: https://vk.com/j1sk1 
-  
-                     YT: https://www.youtube.com/channel/UC04uAekv12ndmokK54el-_w 
-                     
+                                        
                      GameJolt: https://gamejolt.com/@j1sk1ss_onetap 
                      
                      Itch.IO: https://j1sk1ss.itch.io/ 
@@ -37,8 +35,6 @@ ENG:
   Мой Leetcode: https://leetcode.com/j1sk1ss/ 
   
   Связь со мной в ВК: https://vk.com/j1sk1 
-  
-                  ЮТ: https://www.youtube.com/channel/UC04uAekv12ndmokK54el-_w 
                   
                   GameJolt: https://gamejolt.com/@j1sk1ss_onetap 
                   
