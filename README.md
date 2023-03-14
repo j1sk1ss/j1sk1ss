@@ -1,4 +1,20 @@
 ![Alt Text](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
+
+Here is short information about me:
+
+    My name is Nikolya Fot
+    19 years old
+    OSU FoMaIT CS student
+    I am a computer engineer and studiyng on computer security
+    I'm interested in C# Development, Algorithms and Neural Networks. 
+    I'm currently learning Convolution and Recurent neural networks, Python Machine Learning and Numpy
+    I also have some IT cup experience
+    As for languages: English - B2, Russian - native
+
+Contacts: fotikolay222@gmail.com
+
+Extended info:
+
 ENG:
   I`m a student from Russia, and here i post my exampels of code and apps.
   U can see that all repositories have a part after dot like .EXMPL or .LABS
