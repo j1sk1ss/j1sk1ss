@@ -2,7 +2,7 @@
 
 Here is short information about me:
 
-    My name is Nikolya Fot
+    My name is Nikolay Fot
     19 years old
     OSU FoMaIT CS student
     I am a computer engineer and studiyng on computer security
