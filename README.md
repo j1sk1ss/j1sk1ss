@@ -32,9 +32,9 @@ ENG:
   
   Contact with me in VK: https://vk.com/j1sk1 
                                         
-                     GameJolt: https://gamejolt.com/@j1sk1ss_onetap 
+  GameJolt: https://gamejolt.com/@j1sk1ss_onetap 
                      
-                     Itch.IO: https://j1sk1ss.itch.io/ 
+  Itch.IO: https://j1sk1ss.itch.io/ 
 
 РУС:
   Я студент из России, и здесь я размещаю свои примеры кода и приложений.
@@ -52,9 +52,9 @@ ENG:
   
   Связь со мной в ВК: https://vk.com/j1sk1 
                   
-                  GameJolt: https://gamejolt.com/@j1sk1ss_onetap 
+  GameJolt: https://gamejolt.com/@j1sk1ss_onetap 
                   
-                  Itch.IO: https://j1sk1ss.itch.io/ 
+  Itch.IO: https://j1sk1ss.itch.io/ 
 <!--
 https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif
 **j1sk1ss/j1sk1ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
