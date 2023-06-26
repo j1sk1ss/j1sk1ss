@@ -3,7 +3,7 @@
 Here is short information about me:
 
     My name is Nikolay Fot
-    19 years old
+    20 years old
     OSU FoMaIT CS student
     I am a computer engineer and studiyng on computer security
     I'm interested in C# Development, Algorithms and Neural Networks. 
