@@ -9,7 +9,7 @@ Here is short information about me:
     I'm interested in C# Development, Algorithms and Neural Networks. 
     I'm currently learning Convolution and Recurent neural networks, Python Machine Learning and Numpy
     I also have some IT cup experience
-    As for languages: English - B2, Russian - native
+    As for languages: Italian - A1, Ukranian - A2, English - B2, Russian - native
 
 Contacts: fotikolay222@gmail.com
 
