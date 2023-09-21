@@ -16,7 +16,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=j1sk1ss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme, why no?
+### 😂 Random Dev Meme, why not?
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
