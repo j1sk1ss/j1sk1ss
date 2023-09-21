@@ -25,7 +25,7 @@ ENG:
     
     .LABS -> special repositories for my styding in University
     
-    .MPRJ -> project I am currently working on
+    .PETPRJ -> my pet projects 
 
 
   My Leetcode: https://leetcode.com/j1sk1ss/ 
@@ -46,7 +46,7 @@ ENG:
      
      .LABS -> специальные репозитории для моего обучения в университете
      
-     .MPRJ -> проект, над которым я сейчас работаю
+     .PETPRJ -> pet проекты
      
   Мой Leetcode: https://leetcode.com/j1sk1ss/ 
   
