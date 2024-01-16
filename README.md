@@ -1,7 +1,7 @@
 ![Alt Text](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
 
 # 💫 About Me:
-🔭 I'm interested in C# Development, Algorithms and Neural Networks. <br>🌱 I'm currently learning Convolution and Recurent neural networks, Python Machine Learning and Numpy<br>💬 Ask me about low-level stuff like ray-casting in 3D or base info about CNN<br>⚡ Fun fact that i know  Italian - A1, Ukranian - A2, English - B2 and Russian as native
+🔭 I'm interested in C# Development, Algorithms and Neural Networks. <br>🌱 I'm currently learning OsDevelopment, C, ASM and a little bit Python libs<br>💬 Ask me about low-level stuff like ray-casting in 3D or base info about CNN<br>⚡ Fun fact that i know  Italian - A1, Ukranian - A2, English - B2 and Russian as native
 
 
 ## 🌐 My Socials:
