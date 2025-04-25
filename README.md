@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
-<h3 align="center">A low-level developer from CIS</h3>
+<h3 align="center">A system programmer from CIS</h3>
 
 
 ![Alt Text](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
