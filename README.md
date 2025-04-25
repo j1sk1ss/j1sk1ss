@@ -5,7 +5,7 @@
 ![Alt Text](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
 
 # 💫 About Me:
-🔭 I'm interested in **C# Development, low-level algorithms and Neural Networks** <br>🌱 I'm currently learning **OsDevelopment, C, ASM and a little bit Python libs**<br>💬 Ask me about **POSIX, drivers and neural networks**<br>⚡ Languages what i know: **Italian, Ukrainian, English and Russian**<br>📫 My contacts **fotikolay222@gmail.com**<br>
+🔭 I'm interested in **C/CPP development and system programming** <br>🌱 I'm currently learning **OCompiler architecture, compliler optimisation and ASM language**<br>💬 Ask me about **POSIX, drivers and neural networks**<br>⚡ Languages what i know: **Italian, Ukrainian, English and Russian**<br>📫 My contacts **fotikolay222@gmail.com**<br>
 
 
 ## 🌐 My Socials:
