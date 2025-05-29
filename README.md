@@ -5,7 +5,10 @@
 ![Alt Text](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
 
 # About Me:
-I'm interested in **C/CPP development, databases and system programming** <br> I'm currently learning **Compiler architecture, compliler optimisation and ASM language**<br> Can speak about **POSIX, drivers and neural networks**<br> Languages what I know: **Italian, Ukrainian, English and Russian**<br> My contacts **fotikolay222@gmail.com**<br>
+I'm interested in **C/CPP development, databases and system programming** <br> I'm currently learning **Compiler architecture, compliler optimisation and ASM language**<br> Can speak about **POSIX, drivers and neural networks**<br> Languages what I know: **Italian, Ukrainian, English and Russian**<br> 
+My contacts: <br>
+- **fotikolay222@gmail.com**
+- **cordell.confirm@gmail.com**
 
 # Current goals:
 - Compiler project
