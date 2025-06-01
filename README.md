@@ -11,8 +11,9 @@ My contacts: <br>
 - **cordell.confirm@gmail.com**
 
 # Current goals:
-- Compiler project
-- OS project
+- [CordellCompiler](https://github.com/j1sk1ss/CordellCompiler.PETPRJ)
+- [NIFAT32](https://github.com/j1sk1ss/NIFAT32)
+- [CordellOS](https://github.com/j1sk1ss/CordellOS.PETPRJ)
 - 3D engine project (on RUST)
 - Web Browser project (on RUST)
 - `WIP`
