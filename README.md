@@ -11,12 +11,16 @@ My contacts: <br>
 - **cordell.confirm@gmail.com**
 
 # Current goals:
+## Projects
 - [CordellCompiler](https://github.com/j1sk1ss/CordellCompiler.PETPRJ)
 - [NIFAT32](https://github.com/j1sk1ss/NIFAT32)
 - [CordellOS](https://github.com/j1sk1ss/CordellOS.PETPRJ)
 - 3D engine project (on RUST)
 - Web Browser project (on RUST)
 - `WIP`
+## Education
+- Finish my current studying (winter 2027)
+- Apply for a PhD (fall 2027)
 
 ## My Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15895967) 
