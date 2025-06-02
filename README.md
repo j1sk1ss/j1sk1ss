@@ -10,6 +10,9 @@ My contacts: <br>
 - **fotikolay222@gmail.com**
 - **cordell.confirm@gmail.com**
 
+## My Socials:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15895967) 
+
 # Current goals:
 ## Projects
 - [CordellCompiler](https://github.com/j1sk1ss/CordellCompiler.PETPRJ)
@@ -21,9 +24,6 @@ My contacts: <br>
 ## Education
 - Finish my current studying (winter 2027)
 - Apply for a PhD (fall 2027)
-
-## My Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15895967) 
 
 # My Tech Stack:
 ## Languages: 
