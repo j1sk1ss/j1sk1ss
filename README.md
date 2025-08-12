@@ -5,10 +5,15 @@
 ![Alt Text](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
 
 # About Me:
-I'm interested in **C/CPP development, databases and system programming** <br> I'm currently learning **Compiler architecture, compliler optimisation and ASM language**<br> Can speak about **POSIX, drivers and neural networks**<br> Languages what I know: **Italian, Ukrainian, English and Russian**<br> 
-My contacts: <br>
-- **fotikolay222@gmail.com**
+I'm interested in **C/CPP development, compilers, databases, filesystems and operating systems** 
+</br> I'm currently learning **LLVM, ASM AVX512 SIMD, RUST, RISC-V and Noise-Immune encodings**
+</br> Can speak about **Operating systems, POSIX, compilers and neural networks**
+</br> Languages what I know: **Italian, Ukrainian, English and Russian**
+</br> 
+My contacts: </br>
+- **fotikolay222@gmail.com** <- prefered
 - **cordell.confirm@gmail.com**
+- **nickolai.fot@yandex.ru** <- work email
 
 ## My Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15895967) 
@@ -19,7 +24,6 @@ My contacts: <br>
 - [NIFAT32](https://github.com/j1sk1ss/NIFAT32)
 - [CordellOS](https://github.com/j1sk1ss/CordellOS.PETPRJ)
 - 3D engine project (on RUST)
-- Web Browser project (on RUST)
 - `WIP`
 ## Education
 - Finish my current studying (winter 2027)
