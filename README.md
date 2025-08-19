@@ -14,6 +14,7 @@ My contacts: </br>
 - **fotikolay222@gmail.com** <- prefered
 - **cordell.confirm@gmail.com**
 - **nickolai.fot@yandex.ru** <- work email
+- **fot_ns@office.osu.ru** <- academic email
 
 ## My Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15895967) 
