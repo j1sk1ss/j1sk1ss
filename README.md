@@ -12,7 +12,7 @@ I'm interested in **C/CPP development, compilers, databases, filesystems and ope
 </br> 
 My contacts: </br>
 - **fotikolay222@gmail.com** <- prefered
-- **cordell.confirm@gmail.com**
+- **ns.fot@ispras.ru**
 - **nickolai.fot@yandex.ru** <- work email
 - **fot_ns@office.osu.ru** <- academic email
 
