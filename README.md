@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Nikolay</h1>
+<h1 align="center">I'm Nikolai</h1>
 <h3 align="center">A system programmer from CIS</h3>
-
 
 ![Alt Text](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
 
 # About Me:
-I'm interested in **C/CPP development, compilers, databases, filesystems and operating systems** 
+I'm interested in **compilers, operating systems and databases** 
 </br> I'm currently learning **LLVM, ASM AVX512 SIMD, RUST, RISC-V and Noise-Immune encodings**
-</br> Can speak about **Operating systems, POSIX, compilers and neural networks**
-</br> Languages what I know: **Italian, Ukrainian, English and Russian**
+</br> Can speak about **Operating systems, POSIX, compilers and neural networks (such as CNN, RNN, GAN)**
+</br> Languages that I'm able to speak: **Ukrainian, English and Russian (native)**
 </br> 
 My contacts: </br>
-- **fotikolay222@gmail.com** <- prefered
-- **ns.fot@ispras.ru**
+- **ns.fot@ispras.ru** <- prefered
 - **nickolai.fot@yandex.ru** <- work email
 - **fot_ns@office.osu.ru** <- academic email
+- **fotikolay222@gmail.com**
 
 ## My Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15895967) 
 
 # Current goals:
 ## Projects
-- [CordellCompiler](https://github.com/j1sk1ss/CordellCompiler.PETPRJ)
-- [NIFAT32](https://github.com/j1sk1ss/NIFAT32)
 - [CordellOS](https://github.com/j1sk1ss/CordellOS.PETPRJ)
+- [NIFAT32](https://github.com/j1sk1ss/NIFAT32)
+- [CordellCompiler](https://github.com/j1sk1ss/CordellCompiler.PETPRJ)
 - 3D engine project (on RUST)
 - `WIP`
 ## Education
@@ -37,11 +36,11 @@ My contacts: </br>
 ## Technologies:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=j1sk1ss&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=j1sk1ss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=j1sk1ss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
